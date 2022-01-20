@@ -3322,6 +3322,3 @@ categorizations:
     categories:
       - "proprietary-free"
 
-  - id: "LicenseRef-scancode-proprietary-license"
-    categories:
-      - "commercial"
