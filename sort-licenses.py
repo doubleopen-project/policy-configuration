@@ -53,8 +53,8 @@ def sort_yaml_blocks(input_file, output_file):
 
 def main():
     parser = argparse.ArgumentParser(description="Sort licenses based on 'id' field within 'categorizations'.")
-    parser.add_argument('input_file', type=str, help='Input YAML file')
-    parser.add_argument('output_file', type=str, help='Output YAML file after sorting')
+    parser.add_argument('input_file', type=str, help='Input YAML file, usually license-classifications.yml')
+    parser.add_argument('output_file', type=str, help='Output YAML file after sorting. Once verified, you can replace the current license-classifications.yml with this file.')
 
     args = parser.parse_args()
 
