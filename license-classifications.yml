@@ -610,7 +610,7 @@ categorizations:
       - "copyleft-strong"
       - "property:include-in-notice-file"
       - "property:distribute-source-code"
-      - "property:limited-exception"
+      - "property:AutoConf-or-other-exception"
 
   # https://spdx.org/licenses/GPL-2.0-only.html
   # https://spdx.org/licenses/Font-exception-2.0.html
@@ -628,7 +628,7 @@ categorizations:
       - "copyleft-strong"
       - "property:include-in-notice-file"
       - "property:distribute-source-code"
-      - "property:limited-exception"
+      - "property:AutoConf-or-other-exception"
 
   # https://spdx.org/licenses/GPL-2.0-only.html
   # https://scancode-licensedb.aboutcode.org/ada-linking-exception.html
