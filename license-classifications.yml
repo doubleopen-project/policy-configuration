@@ -4506,3 +4506,9 @@ categorizations:
     categories:
       - "proprietary-free"
       - "property:include-in-notice-file"
+
+  # https://scancode-licensedb.aboutcode.org/arm-cortex-mx.html
+  - id: "LicenseRef-scancode-arm-cortex-mx"
+    categories:
+      - "proprietary-free"
+      - "property:include-in-notice-file"
