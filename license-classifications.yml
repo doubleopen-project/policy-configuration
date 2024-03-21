@@ -2909,6 +2909,7 @@ categorizations:
       - "permissive"
       - "property:include-in-notice-file"
       - "include-in-notice-file"
+      - "property:advertising-clause"
 
   # https://scancode-licensedb.aboutcode.org/inner-net-2.0.html
   - id: "LicenseRef-scancode-inner-net-2.0"
