@@ -4197,6 +4197,13 @@ categorizations:
       - "property:include-in-notice-file"
       - "include-in-notice-file"
 
+  # https://spdx.org/licenses/Unicode-3.0.html
+  - id: "Unicode-3.0"
+    categories:
+      - "permissive"
+      - "property:include-in-notice-file"
+      - "include-in-notice-file"
+
   # https://spdx.org/licenses/Unicode-DFS-2015.html
   - id: "Unicode-DFS-2015"
     categories:
