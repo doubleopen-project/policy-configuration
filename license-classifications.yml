@@ -2910,6 +2910,14 @@ categorizations:
       - "property:include-in-notice-file"
       - "include-in-notice-file"
 
+  # https://scancode-licensedb.aboutcode.org/efsl-2.0.html
+  - id: "LicenseRef-scancode-efsl-2.0"
+    categories:
+      - "proprietary-free"
+      - "property:include-in-notice-file"
+      - "include-in-notice-file"
+      - "property:no-modifications"
+
   - id: "LicenseRef-scancode-ekioh"
     categories:
       - "permissive"
