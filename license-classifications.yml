@@ -1502,6 +1502,11 @@ categorizations:
       - "property:include-in-notice-file"
       - "include-in-notice-file"
 
+  # https://spdx.org/licenses/HPND-Markus-Kuhn.html
+  - id: "HPND-Markus-Kuhn"
+    categories:
+      - "permissive"
+
   # https://spdx.org/licenses/HPND-sell-variant.html
   - id: "HPND-sell-variant"
     categories:
