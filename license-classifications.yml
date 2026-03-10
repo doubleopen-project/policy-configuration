@@ -576,6 +576,14 @@ categorizations:
       - "property:include-in-notice-file"
       - "include-in-notice-file"
 
+  # https://spdx.org/licenses/Bahyph.html
+  - id: "Bahyph"
+    categories:
+      - "permissive"
+      - "property:include-in-notice-file"
+      - "include-in-notice-file"
+      - "property:modification-related-obligations"
+
   - id: "Beerware"
     categories:
       - "permissive"
