@@ -608,6 +608,13 @@ categorizations:
       - "property:distribute-source-code"
       - "property:patent-clause"
 
+  # https://spdx.org/licenses/Bitstream-Charter.html
+  - id: "Bitstream-Charter"
+    categories:
+      - "permissive"
+      - "property:include-in-notice-file"
+      - "include-in-notice-file"
+
   - id: "Bitstream-Vera"
     categories:
       - "free-restricted"
