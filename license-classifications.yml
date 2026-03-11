@@ -3733,6 +3733,13 @@ categorizations:
       - "property:include-in-notice-file"
       - "include-in-notice-file"
 
+  # https://scancode-licensedb.aboutcode.org/zsh.html
+  - id: "LicenseRef-scancode-zsh"
+    categories:
+      - "permissive"
+      - "property:include-in-notice-file"
+      - "include-in-notice-file"
+
   - id: "LicenseRef-sflow-license"
     categories:
       - "proprietary-free"
