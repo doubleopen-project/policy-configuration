@@ -208,13 +208,13 @@ categorizations:
     categories:
       - "permissive"
 
-  # https://spdx.org/licenses/AFL-1.1.html
   - id: "AFL-1.1"
     categories:
       - "permissive"
       - "property:include-in-notice-file"
       - "include-in-notice-file"
       - "property:patent-clause"
+      - "url:https://spdx.org/licenses/AFL-1.1.html"
 
   # https://spdx.org/licenses/AFL-1.2.html
   - id: "AFL-1.2"
