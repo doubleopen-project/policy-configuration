@@ -4078,6 +4078,7 @@ categorizations:
       - "permissive"
       - "property:include-in-notice-file"
       - "include-in-notice-file"
+      - "property:mark-modifications"
 
   - id: "Plexus"
     categories:
@@ -4097,6 +4098,7 @@ categorizations:
       - "permissive"
       - "property:include-in-notice-file"
       - "include-in-notice-file"
+      - "property:mark-modifications"
 
   # https://www.python.org/download/releases/2.0.1/license/
   - id: "Python-2.0.1"
