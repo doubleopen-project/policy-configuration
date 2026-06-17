@@ -3,7 +3,7 @@
 // SPDX-FileCopyrightText: 2023 Double Open Oy <support@doubleopen.org>
 // SPDX-License-Identifier: CC0-1.0
 
-@file:CompilerOptions("-jvm-target", "21")
+@file:CompilerOptions("-jvm-target", "25")
 @file:DependsOn("org.apache.logging.log4j:log4j-to-slf4j:2.25.2")
 @file:DependsOn("org.ossreviewtoolkit:model:72.1.0")
 
