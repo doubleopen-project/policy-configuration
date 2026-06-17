@@ -864,6 +864,14 @@ categorizations:
       - "property:creativecommons"
       - "property:no-modifications"
 
+  # https://spdx.org/licenses/CC-BY-SA-1.0.html
+  - id: "CC-BY-SA-1.0"
+    categories:
+      - "copyleft-strong"
+      - "property:include-in-notice-file"
+      - "include-in-notice-file"
+      - "property:creativecommons"
+
   - id: "CC-BY-SA-2.0"
     categories:
       - "copyleft-strong"
